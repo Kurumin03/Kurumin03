@@ -47,9 +47,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kurumin03/Kurumin03/output/snake.svg" alt="Snake animation" />
-
-###
